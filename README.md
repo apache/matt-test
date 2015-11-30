@@ -11,14 +11,7 @@ bit more from me
 
 gagegg
 
-and some more and some
-
-
-
-fakjfkaeghehg
-asgkjekgkk
-
-add file stuffs...
+and some more and some and then some
 
 bit more readme testing....
 and then some...
