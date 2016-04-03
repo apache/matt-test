@@ -6,3 +6,4 @@ more stuff to test the new diff format...
 
 one last test :)
 
+blablabla
