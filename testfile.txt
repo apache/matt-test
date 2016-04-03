@@ -5,7 +5,5 @@ bit more testing..
 
 more stuff to test the new diff format...
 
-Whoohooo!
-
 one last test :)
 
