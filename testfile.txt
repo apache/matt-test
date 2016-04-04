@@ -4,6 +4,5 @@ bit more testing..
 
 pubsub tests commence..!
 
-aegg
-egeg
+oops!
 
